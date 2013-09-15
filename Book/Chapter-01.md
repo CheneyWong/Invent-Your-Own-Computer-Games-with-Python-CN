@@ -26,7 +26,16 @@
 ##下载和安装Python
 在我们开始编程之前，你将不得不安装Python的软件，特别是Python解释器。（在这里你获取会有很多的疑问）解释器是一个电脑程序，它能够理解你用Python写的指令。如果没有解释器你的电脑将不能明白这些指令，你的程序也就不能工作。（我们现在就开始涉及到Python解释器和Python语言了。）
 
+因为我们将使用Python来编写我们的游戏，所以必须先从Python语言的官方网站下载Python，http://www.python.org。
 
+我将指引你们如何在微软公司的Windows操作系统下安装Python，不是因为我喜欢这个操作系统，而是因为你很可能已经安装的就是这个。你或许也会需要在别的操作系统下安装Python的指导。
 
+当你来到 python.org 你在左侧应该能看到一个链接的列表。（About、News、Documentation、Download 等等）。点击 Download 链接来到下载页面，然后就能找到Python 3.1 Windows Installer (Windows binary -- does not include source)，点击它就能下载 Windows版本的 Python。
 
+图表 1-1: 从 http://www.python.org 下载 Windows版本的 Python。
 
+双击你刚才下载的 python-3.1.msi 文件，开始Python的安装。（如果它没开始安装，尝试使用，右键-安装）。开始安装后，一路点击 Next，完成后点击 Finish。
+
+**重要提示！**确信你安装的是 Python 3 而不是Python 2。本书中的程序使用的是Python 3，如果你在 Python 2 下运行可能会有错误。
+
+ 
